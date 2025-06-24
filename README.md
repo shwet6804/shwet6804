@@ -1,17 +1,16 @@
 <h1 align="center">Hi 👋, I'm Shwet Kumar Sharma</h1>
-<h3 align="center">A passionate programmer | Cleaning complexities👾</h3>
+<h3 align="center">A passionate programmer  |  Cleaning complexities👾</h3>
+<img align="right" alt="coding" width="400" src="https://giffiles.alphacoders.com/732/732.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shwet6804&label=Profile%20views&color=0e75b6&style=flat" alt="shwet6804" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shwet6804" alt="shwet6804" /></a> </p>
 
 - 🌱 I’m currently learning **SpringBoot , React**
 
 - 📫 How to reach me **shwetlm10@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1aw1LqLZfcLF0BkBekiFedamHmitDbkpg/view?usp=drive_link](https://drive.google.com/file/d/1aw1LqLZfcLF0BkBekiFedamHmitDbkpg/view?usp=drive_link)
+- 📄 Know about my experiences (https://lnk.ink/5PNzr)
 
-- ⚡ Fun fact  **The Beat Engineer-Drummer**
+- ⚡ Fun fact   **The Beat Engineer-Drummer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
